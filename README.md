@@ -1,0 +1,1 @@
+This project is a music recommendation system using Streamlit framework and cosine similarity method based on the artist, album and lyrics. It gives 5 recommendation along with the singer and a spotify link for each music.
